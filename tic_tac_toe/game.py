@@ -1,7 +1,7 @@
 
 # game.py
 
-from parts import Board
+from tic_tac_toe.gameparts.parts import Board
 
 game = Board()
 game.display()
